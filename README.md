@@ -7,6 +7,9 @@
 
 - 🌱 I’m currently learning 
 
+### GitHub stats
+
+[![MiguelAngelTorres GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAngelTorres)](https://github.com/MiguelAngelTorres/github-readme-stats)
 
 <!--
 **MiguelAngelTorres/MiguelAngelTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

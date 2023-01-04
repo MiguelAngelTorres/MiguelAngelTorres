@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+### I'm Miguel Ángel, a mathematician and computer engineer 👨‍💻 🕵️ 
+  
+
+- 🔭 I’m currently working on Atlax360
+
+- 🌱 I’m currently learning 
+
+
 <!--
 **MiguelAngelTorres/MiguelAngelTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

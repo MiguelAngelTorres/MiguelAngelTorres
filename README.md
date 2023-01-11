@@ -3,7 +3,7 @@
 ### I'm Miguel Ángel, a mathematician and computer engineer :1234: :computer: 
   
 
-- 🔭 I’m currently working on Atlax360
+- 🔭 I’m currently working on Atlax360 as Data Scientist
 
 - 🌱 I’m currently learning 
 
